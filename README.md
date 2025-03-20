@@ -1,2 +1,2 @@
 # bit-website
-Desarrollo web bootcamp semana 2
+Proyecto acerca de mi, un sitio web personal
