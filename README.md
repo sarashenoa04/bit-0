@@ -1,5 +1,5 @@
 # bit-website
 Proyecto acerca de mi, un sitio web personal
 
-# Autor
+# autor
 Sara Shenoa Buenaventura Suarez 
